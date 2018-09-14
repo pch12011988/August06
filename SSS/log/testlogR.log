@@ -1,0 +1,48 @@
+2018-07-23 18:06:27,282 - MyTest -INFO - New driver instantiated
+2018-07-23 18:06:27,657 - MyTest -INFO - Implicit wait applied on the driver for 10 seconds
+2018-07-23 18:06:35,098 - MyTest -INFO - Web application launched
+2018-07-23 18:26:32,803 - MyTest -INFO - New driver instantiated
+2018-07-23 18:26:33,213 - MyTest -INFO - Implicit wait applied on the driver for 10 seconds
+2018-07-23 18:26:37,858 - MyTest -INFO - Web application launched
+2018-07-23 18:26:37,860 - MyTest -INFO - initialization completed successfully
+2018-07-23 18:26:37,931 - MyTest -INFO - URL Verfied
+2018-07-23 18:26:37,980 - MyTest -INFO - Application Title Verfied
+2018-07-23 18:26:38,157 - MyTest -INFO - Title Verfied
+2018-07-23 18:26:38,177 - MyTest -INFO - Sign in to Start your Session
+2018-07-23 18:26:38,371 - MyTest -INFO - Place Holder P Verified
+2018-07-23 18:26:38,471 - MyTest -INFO - after mouse hover button color isrgba(255, 255, 255, 1)
+2018-07-23 18:26:38,540 - MyTest -INFO - links are verified
+2018-07-23 18:26:39,952 - MyTest -ERROR - please enter the uname as kiran@gmail.com
+2018-07-23 18:26:39,954 - MyTest -ERROR - please enter the password as 123456
+2018-07-23 18:26:56,443 - MyTest -INFO - DashboardURL Verfied
+2018-07-23 18:26:56,459 - MyTest -INFO - DashboardTitle Verfied
+2018-07-23 18:26:56,505 - MyTest -INFO - DashboardHeading verified
+2018-07-23 18:26:56,559 - MyTest -INFO - Logo Verfied
+2018-07-23 18:26:57,173 - MyTest -INFO - clicked on Users
+2018-07-23 18:26:57,580 - MyTest -INFO - table printed
+2018-07-23 18:26:59,031 - MyTest -INFO - user added successfully
+2018-07-23 18:27:09,634 - MyTest -INFO - browser closed
+2018-07-23 18:28:27,584 - MyTest -INFO - New driver instantiated
+2018-07-23 18:28:27,741 - MyTest -INFO - Implicit wait applied on the driver for 10 seconds
+2018-07-23 18:28:31,706 - MyTest -INFO - Web application launched
+2018-07-23 18:28:31,708 - MyTest -INFO - initialization completed successfully
+2018-07-23 18:28:31,835 - MyTest -INFO - URL Verfied
+2018-07-23 18:28:31,856 - MyTest -INFO - Application Title Verfied
+2018-07-23 18:28:32,026 - MyTest -INFO - Title Verfied
+2018-07-23 18:28:32,050 - MyTest -INFO - Sign in to Start your Session
+2018-07-23 18:28:32,115 - MyTest -INFO - Place Holder P Verified
+2018-07-23 18:28:32,216 - MyTest -INFO - after mouse hover button color isrgba(255, 255, 255, 1)
+2018-07-23 18:28:32,282 - MyTest -INFO - links are verified
+2018-07-23 18:28:33,669 - MyTest -ERROR - please enter the uname as kiran@gmail.com
+2018-07-23 18:28:33,670 - MyTest -ERROR - please enter the password as 123456
+2018-07-23 18:28:59,796 - MyTest -INFO - DashboardURL Verfied
+2018-07-23 18:28:59,844 - MyTest -INFO - DashboardTitle Verfied
+2018-07-23 18:28:59,933 - MyTest -INFO - DashboardHeading verified
+2018-07-23 18:29:00,013 - MyTest -INFO - Logo Verfied
+2018-07-23 18:29:00,774 - MyTest -INFO - clicked on Users
+2018-07-23 18:29:01,174 - MyTest -INFO - table printed
+2018-07-23 18:29:02,675 - MyTest -INFO - user added successfully
+2018-07-23 18:30:20,050 - MyTest -INFO - New driver instantiated
+2018-07-23 18:30:20,190 - MyTest -INFO - Implicit wait applied on the driver for 10 seconds
+2018-07-23 18:32:50,916 - MyTest -INFO - New driver instantiated
+2018-07-23 18:32:51,077 - MyTest -INFO - Implicit wait applied on the driver for 10 seconds

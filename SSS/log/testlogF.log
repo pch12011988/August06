@@ -1,0 +1,48 @@
+2018-07-23 18:06:27 INFO  [main]  (MyBase.java:46)- New driver instantiated
+2018-07-23 18:06:27 INFO  [main]  (MyBase.java:59)- Implicit wait applied on the driver for 10 seconds
+2018-07-23 18:06:35 INFO  [main]  (MyBase.java:62)- Web application launched
+2018-07-23 18:26:32 INFO  [main]  (MyBase.java:46)- New driver instantiated
+2018-07-23 18:26:33 INFO  [main]  (MyBase.java:59)- Implicit wait applied on the driver for 10 seconds
+2018-07-23 18:26:37 INFO  [main]  (MyBase.java:62)- Web application launched
+2018-07-23 18:26:37 INFO  [main]  (MYTest.java:337)- initialization completed successfully
+2018-07-23 18:26:37 INFO  [main]  (MYTest.java:47)- URL Verfied
+2018-07-23 18:26:37 INFO  [main]  (MYTest.java:59)- Application Title Verfied
+2018-07-23 18:26:38 INFO  [main]  (MYTest.java:70)- Title Verfied
+2018-07-23 18:26:38 INFO  [main]  (MYTest.java:78)- Sign in to Start your Session
+2018-07-23 18:26:38 INFO  [main]  (MYTest.java:92)- Place Holder P Verified
+2018-07-23 18:26:38 INFO  [main]  (MYTest.java:104)- after mouse hover button color isrgba(255, 255, 255, 1)
+2018-07-23 18:26:38 INFO  [main]  (MYTest.java:115)- links are verified
+2018-07-23 18:26:39 ERROR [main]  (MYTest.java:164)- please enter the uname as kiran@gmail.com
+2018-07-23 18:26:39 ERROR [main]  (MYTest.java:168)- please enter the password as 123456
+2018-07-23 18:26:56 INFO  [main]  (MYTest.java:195)- DashboardURL Verfied
+2018-07-23 18:26:56 INFO  [main]  (MYTest.java:205)- DashboardTitle Verfied
+2018-07-23 18:26:56 INFO  [main]  (MYTest.java:216)- DashboardHeading verified
+2018-07-23 18:26:56 INFO  [main]  (MYTest.java:225)- Logo Verfied
+2018-07-23 18:26:57 INFO  [main]  (MYTest.java:240)- clicked on Users
+2018-07-23 18:26:57 INFO  [main]  (MYTest.java:262)- table printed
+2018-07-23 18:26:59 INFO  [main]  (MYTest.java:288)- user added successfully
+2018-07-23 18:27:09 INFO  [main]  (MYTest.java:343)- browser closed
+2018-07-23 18:28:27 INFO  [main]  (MyBase.java:46)- New driver instantiated
+2018-07-23 18:28:27 INFO  [main]  (MyBase.java:59)- Implicit wait applied on the driver for 10 seconds
+2018-07-23 18:28:31 INFO  [main]  (MyBase.java:62)- Web application launched
+2018-07-23 18:28:31 INFO  [main]  (MYTest.java:337)- initialization completed successfully
+2018-07-23 18:28:31 INFO  [main]  (MYTest.java:47)- URL Verfied
+2018-07-23 18:28:31 INFO  [main]  (MYTest.java:59)- Application Title Verfied
+2018-07-23 18:28:32 INFO  [main]  (MYTest.java:70)- Title Verfied
+2018-07-23 18:28:32 INFO  [main]  (MYTest.java:78)- Sign in to Start your Session
+2018-07-23 18:28:32 INFO  [main]  (MYTest.java:92)- Place Holder P Verified
+2018-07-23 18:28:32 INFO  [main]  (MYTest.java:104)- after mouse hover button color isrgba(255, 255, 255, 1)
+2018-07-23 18:28:32 INFO  [main]  (MYTest.java:115)- links are verified
+2018-07-23 18:28:33 ERROR [main]  (MYTest.java:164)- please enter the uname as kiran@gmail.com
+2018-07-23 18:28:33 ERROR [main]  (MYTest.java:168)- please enter the password as 123456
+2018-07-23 18:28:59 INFO  [main]  (MYTest.java:195)- DashboardURL Verfied
+2018-07-23 18:28:59 INFO  [main]  (MYTest.java:205)- DashboardTitle Verfied
+2018-07-23 18:28:59 INFO  [main]  (MYTest.java:216)- DashboardHeading verified
+2018-07-23 18:29:00 INFO  [main]  (MYTest.java:225)- Logo Verfied
+2018-07-23 18:29:00 INFO  [main]  (MYTest.java:240)- clicked on Users
+2018-07-23 18:29:01 INFO  [main]  (MYTest.java:262)- table printed
+2018-07-23 18:29:02 INFO  [main]  (MYTest.java:288)- user added successfully
+2018-07-23 18:30:20 INFO  [main]  (MyBase.java:46)- New driver instantiated
+2018-07-23 18:30:20 INFO  [main]  (MyBase.java:59)- Implicit wait applied on the driver for 10 seconds
+2018-07-23 18:32:50 INFO  [main]  (MyBase.java:46)- New driver instantiated
+2018-07-23 18:32:51 INFO  [main]  (MyBase.java:59)- Implicit wait applied on the driver for 10 seconds

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="mydemo.MYTest">
+        <methods>
+          <include name="checkLinks"/>
+          <include name="verifyURL"/>
+          <include name="invalidEmailPassword"/>
+          <include name="verifyDashboardTitle"/>
+          <include name="printUSERtable"/>
+          <include name="validEmailPassword"/>
+          <include name="verifyTitle"/>
+          <include name="logOut"/>
+          <include name="verifyDashboardURL"/>
+          <include name="verifyApplicationTitle"/>
+          <include name="verifyButtonColor"/>
+          <include name="setUpBrowser"/>
+          <include name="verifyLogo"/>
+          <include name="loginSession"/>
+          <include name="blankEmailPassword"/>
+          <include name="placeHolders"/>
+          <include name="verifyDashboardHeading"/>
+          <include name="clickOnUsers"/>
+          <include name="addUser"/>
+        </methods>
+      </class> <!-- mydemo.MYTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
