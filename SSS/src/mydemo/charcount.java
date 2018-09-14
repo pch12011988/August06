@@ -10,8 +10,10 @@ public class charcount {
 		for (int i = 1; i <= l; i++) {
 
 			count++;
+			//count incermented by 1
 		}
 		System.out.println("no of chars in string s are:" + count);
+		//output printed
 	}
 
 }
